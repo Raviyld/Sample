@@ -3,4 +3,4 @@ Sample
 
 Demo
 
-Hi This is my first git hub for sample
+This is my first Repository.
